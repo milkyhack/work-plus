@@ -33,18 +33,6 @@ cd your-project
 cargo build
 ```
 
-## 📸 Screenshots
-
-### Console Output
-> A simple console output showcasing the logging of employee actions.
-
-![Console Output](sandbox:/mnt/data/A_screenshot_of_a_simple_Rust_program_running_in_a.png)
-
-### Source Code
-> A clean and efficient Rust codebase for maintaining logs.
-
-![Source Code](sandbox:/mnt/data/A_screenshot_of_a_simple_Rust_program_running_in_a.png)
-
 ---
 
 ## 🚀 Usage
@@ -82,6 +70,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 > Made with 💻 by [your-username](https://github.com/your-username)
 
----
-
-![footer](https://via.placeholder.com/800x100.png?text=Elegant+Footer)
